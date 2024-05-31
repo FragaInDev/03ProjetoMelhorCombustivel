@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">03ProjetoMelhorCombustivel</string>
+    <string name="inputGasolina">Preço da Gasolina</string>
+    <string name="inputEtanol">Preço do Etanol</string>
+    <string name="calcular">Calcular</string>
+    <string name="result"> </string>
+</resources>
